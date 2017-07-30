@@ -1,2 +1,4 @@
 # Created by .ignore support plugin (hsz.mobi)
 .idea
+server/db.sqlite3
+server/retail/migrations
