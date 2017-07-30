@@ -2,3 +2,5 @@
 .idea
 server/db.sqlite3
 server/retail/migrations
+client/bower_components
+client/node_modules
